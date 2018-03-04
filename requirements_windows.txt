@@ -1,0 +1,9 @@
+#
+####### Requirements on Windows #######
+#
+###### Requirements without Version Specifiers ######
+#
+beautifulsoup4
+xlwt
+bitly-api
+#

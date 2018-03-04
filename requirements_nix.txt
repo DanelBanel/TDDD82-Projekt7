@@ -1,0 +1,16 @@
+#
+####### Requirements on nix like systems #######
+#
+###### Requirements without Version Specifiers ######
+#
+beautifulsoup4
+xlwt
+bitly-api
+#
+###### Requirements with Version Specifiers ######
+#
+numpy == 1.12.1
+Scipy == 0.19.0
+scikit-learn == 0.18.1
+pandas == 0.19.2
+#
